@@ -1,0 +1,8 @@
+{
+  "launch":{
+    "category": "master",
+    "sounds": [
+      "launch"
+    ]
+  }
+}
